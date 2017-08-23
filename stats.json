@@ -1,0 +1,36 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9d3755208334049124ba.js",
+      "component---src-pages-index-js-9d3755208334049124ba.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-1f1b6c029e97337cf674.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-1f1b6c029e97337cf674.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-8d59e3ceca5e6250dfb6.js",
+      "component---src-layouts-index-js-8d59e3ceca5e6250dfb6.js.map"
+    ],
+    "path---index": [
+      "path---index-cee05b4c142918e3279f.js",
+      "path---index-cee05b4c142918e3279f.js.map"
+    ],
+    "commons": [
+      "commons-04ed974951c58f43e4f8.js",
+      "commons-04ed974951c58f43e4f8.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-d8b043e9641cdb14e5d2.js",
+      "app-d8b043e9641cdb14e5d2.js.map"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e42603000],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(t,e){t.exports={data:{site:{siteMetadata:{rssMetadata:{title:"Kitsune Analytics"},siteUrl:"https://kitsuneanalytics.com"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-cee05b4c142918e3279f.js.map
